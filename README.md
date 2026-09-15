@@ -1,19 +1,19 @@
 # Brew Cafe
 
-A WordPress practice project focused on building a cafe-themed website. This project is meant for learning WordPress setup, theme customization, content management, and front-end design in a realistic café business scenario.
+A WordPress practice project for building a cafe-themed website. This project is meant to help improve WordPress setup, theme customization, content creation, and front-end styling in a realistic coffee shop scenario.
 
 ## About the Project
 
-Brew Cafe is a mock coffee shop website designed to practice:
+Brew Cafe is a mock coffee shop website built to practice:
 
-- WordPress installation and configuration
-- Theme customization
-- Page layout design
-- Menu and content management
-- Blog and homepage building
-- Basic custom styling and branding
+- WordPress installation and local development
+- Theme and template customization
+- Page layout and homepage design
+- Menu, blog, and content management
+- Styling and branding for a small business
+- Basic WordPress workflow and customization skills
 
-This is a learning project, so it can be expanded with custom themes, plugins, or additional features as you improve your WordPress skills.
+This is a personal learning project and can be expanded with custom themes, plugins, and extra features as your WordPress skills improve.
 
 ## Tech Stack
 
@@ -23,6 +23,26 @@ This is a learning project, so it can be expanded with custom themes, plugins, o
 - HTML
 - CSS
 - JavaScript
+
+## Recommended Local Setup
+
+This project is best run with Local by Flywheel, which makes WordPress development easier for local projects.
+
+### Why Local?
+
+- Easy WordPress setup
+- Built-in PHP and MySQL environment
+- Simple local site creation
+- Great for testing themes and plugins safely
+- Quick export/import workflow for moving projects later
+
+### Setup Steps
+
+1. Download and install Local by Flywheel.
+2. Create a new WordPress site in Local.
+3. Point the site to this project folder or import the site into Local if needed.
+4. Start the site and make sure the database connects correctly.
+5. Log in to the WordPress dashboard and begin customizing your cafe website.
 
 ## Project Structure
 
@@ -41,42 +61,33 @@ brew-cafe/
 └── ...
 ```
 
-## Local Setup
+## Features to Practice
 
-1. Place this project in your local web server folder.
-2. Start your local PHP/MySQL environment.
-3. Create a database for the project in WordPress.
-4. Configure `wp-config.php` with your database details.
-5. Run the WordPress installation.
-6. Log in to the admin dashboard and begin customizing the café site.
-
-## Typical Features to Practice
-
-- Hero section with café branding
+- Hero section with branding and café vibe
 - About us section
-- Menu page with coffee and food items
-- Testimonials or customer reviews
-- Contact section with map or address details
+- Coffee and food menu layout
+- Testimonials and customer reviews
+- Contact section with address and hours
 - Blog/news section
-- Product or service highlights
 - Responsive design for mobile and desktop
+- Custom CSS for a polished storefront look
 
 ## Learning Goals
 
 - Understand how WordPress themes work
-- Practice custom CSS and layout design
-- Learn page building with blocks or custom templates
-- Explore plugin use for forms, SEO, and performance
-- Build a polished landing page for a small business
+- Practice custom styling and layout design
+- Learn how to manage pages, posts, and media
+- Explore plugins for forms, SEO, and functionality
+- Build a complete café-style landing page from scratch
 
 ## Notes
 
-This project is intended for personal practice and experimentation. It can be used as a base for a portfolio project, a WordPress learning exercise, or a starter idea for a real café website.
+This project is intended for personal learning and experimentation. It can be used as a portfolio piece, a WordPress practice site, or a starting point for a real café business website.
 
 ## License
 
-This project is for educational and practice use.
+This project is for educational and personal practice use.
 
 ## Author
 
-Created as a WordPress learning project for a café-themed website.
+Created as a WordPress learning project for a cafe-themed website.
